@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "tetris.h": "c",
+        "raylib.h": "c",
+        "string.h": "c",
+        "tetrominoshape.h": "c"
+    }
+}
